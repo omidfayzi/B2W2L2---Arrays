@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+	height: 1000px;
+	margin-top: 20px;
+	background-color: #8ad7c1;
+	box-shadow: 3px 5px 15px 4px #888888;
+}
+
+h2 {
+	padding-left: 10px;
+	padding-top: 10px;
+}
